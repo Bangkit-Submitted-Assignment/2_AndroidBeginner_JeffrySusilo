@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="nama_pemain">Nama Pemain</string>
+    <string name="description">Artikel</string>
+    <string-array name="data_name">
+        <item>Lionel Messi</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Erling Haaland</item>
+        <item>K. Mbappe</item>
+        <item>M. salah</item>
+        <item>H. Kane</item>
+        <item>Neymar</item>
+        <item>B. Fernandes</item>
+        <item>K. De Bruyne</item>
+        <item>V. Van Dijk</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>A prolific goalscorer and creative playmaker, Messi holds the records for most goals in La Liga (474), most hat-tricks in La Liga (36) and the UEFA Champions League (eight), and most assists in La Liga (192) and the Copa América (17). He also has the most international goals by a South American male (103). Messi has scored over 800 senior career goals for club and country, and has the most goals by a player for a single club (672).</item>
+        <item>Cristiano Ronaldo dos Santos Aveiro GOIH ComM (Portuguese pronunciation: [kɾiʃˈtjɐnu ʁɔˈnaldu]; born 5 February 1985) is a Portuguese professional footballer who plays as a forward for and captains both Saudi Pro League club Al Nassr and the Portugal national team. Widely regarded as one of the greatest players of all time, Ronaldo has won five Ballon dOr awards,[note 3] a record three UEFA Best Player in Europe, and four European Golden Shoes, the most by a European player. He has won 33 trophies in his career, including seven league titles, five UEFA Champions Leagues, the UEFA European Championship and the UEFA Nations League.</item>
+        <item>Erling Braut Haaland (né Håland; Urban East Norwegian: [ˈhòːlɑn];[5] born 21 July 2000) is a Norwegian professional footballer who plays as a striker for Premier League club Manchester City and the Norway national team. Considered one of the best players in the world, he is known for his speed, strength, positioning, and finishing inside the box. Haaland holds the record for the most goals scored by a player in a single Premier League season, with 36.[6]</item>
+        <item>Kylian Mbappé Lottin (born 20 December 1998) is a French professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the France national team. Regarded as one of the best players in the world, he is renowned for his dribbling abilities, exceptional speed, and finishing.</item>
+        <item>Mohamed Salah Hamed Mahrous Ghaly (bahasa Arab: محمد صلاح حامد محروس غالي, pengucapan bahasa Arab Mesir: [mæˈħam.mæd sˤɑˈlɑːħ ˈɣæːli] lahir 15 Juni 1992) adalah seorang pemain sepak bola profesional asal Mesir yang bermain sebagai penyerang untuk klub Liga Utama Inggris Liverpool dan tim nasional Mesir. Dianggap sebagai salah satu pemain terbaik di dunia dan salah satu pemain asal Afrika terbaik sepanjang masa,[8][9] dia dikenal dengan kemampuan penyelesaian akhirnya, dan kepiawaiannya serta kecepatannya dalam membawa bola</item>
+        <item>Harry Edward Kane MBE (born 28 July 1993) is an English professional footballer who plays as a striker for Bundesliga club Bayern Munich and captains the England national team. A prolific goalscorer with strong link play, Kane is regarded as one of the best strikers in the world.[2][3] He is both Tottenham Hotspurs and Englands all-time highest goalscorer, as well as being the second-highest all-time goalscorer in the Premier League.[4] Kane has scored over 350 goals for club and country.</item>
+        <item>Neymar da Silva Santos Júnior (born 5 February 1992), known as Neymar Júnior or mononymously as Neymar, is a Brazilian professional footballer who plays as a forward for Saudi Pro League club Al Hilal and the Brazil national team. A prolific goalscorer and playmaker, he is widely regarded as one of the best players in the world and one of the best Brazilian players of all time.[3][4][5] Neymar has scored at least 100 goals for three different clubs, making him one of the few players to achieve this feat.[6]</item>
+        <item>Bruno Miguel Borges Fernandes (European Portuguese: [ˈbɾunu fɨɾˈnɐ̃dɨʃ];[3] born 8 September 1994) is a Portuguese professional footballer who plays as an attacking midfielder for Premier League club Manchester United, which he captains, and the Portugal national team.</item>
+        <item>Kevin De Bruyne (born 28 June 1991) is a Belgian professional footballer who plays as a midfielder for and captains both Premier League club Manchester City and the Belgium national team. He is widely regarded as one of the greatest players of his generation as well as one of the best midfielders in the world. Pundits have described him as a complete footballer.</item>
+        <item>Virgil van Dijk (Dutch pronunciation: [ˈvɪr.d͡ʒɪl vɑn.ˈdɛik];[2] born 8 July 1991) is a Dutch professional footballer who plays as a centre back for and captains both Premier League club Liverpool and the Netherlands national team. Widely regarded as one of the best defenders in the world,[3] Van Dijk is known for his strength, leadership and aerial ability.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/messi</item>
+        <item>@drawable/ronaldo</item>
+        <item>@drawable/haaland</item>
+        <item>@drawable/mbappe</item>
+        <item>@drawable/salah</item>
+        <item>@drawable/kane</item>
+        <item>@drawable/neymar</item>
+        <item>@drawable/bruno</item>
+        <item>@drawable/kdb</item>
+        <item>@drawable/vvd</item>
+        <item>@drawable/fotosaya</item>
+    </integer-array>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+</resources>
